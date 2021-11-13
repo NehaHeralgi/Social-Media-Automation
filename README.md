@@ -45,10 +45,10 @@ given the options of Instagram, Facebook and Twitter.
 According to the option chosen and the inputs given, they are taken to a separate page for the
 particular social media where automation is performed. Then they choose from the options of:
 
-• uploading a post
-• liking/unliking
-• commenting and
-• following/unfollowing
+* uploading a post
+* liking/unliking
+* commenting and
+* following/unfollowing
 
 After selecting the options and providing the interface with the required information, the
 automation tool will begin its work to achieve the user’s desired goal. 
@@ -95,3 +95,6 @@ Libraries:
 * Instabot
 * pyautogui
 * Latest ChromeWebdriver
+
+# Execution
+Add the latest xpaths and css selectors of social media websites to avoid errors
